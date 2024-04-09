@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696933444 source:d:\meo-prf\workshop\ws3\8\program8\program8.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+
